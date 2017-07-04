@@ -80,6 +80,7 @@ public class HelloWorldServlet extends HttpServlet {
 		out.println("</HTML>");
 		out.flush();
 		out.close();
+
 	}
 
 	/**
